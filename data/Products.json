@@ -1,0 +1,73 @@
+[
+	{
+		"id": 1,
+		"name": "Captain",
+		"imageUrl": "https://i.ibb.co/xYz9S1Z/Captain-Arizona.webp",
+		"price": "199",
+		"collection": "Arizona Adobe",
+		"badge": true,
+		"badgeMessage": "Back in Stock"
+	},
+	{
+		"id": 2,
+		"name": "Explorer",
+		"imageUrl": "https://i.ibb.co/KXnqXcb/Explorer-Black-Matte.webp",
+		"price": "249",
+		"collection": "Black Matte",
+		"badge": false,
+		"badgeMessage": ""
+	},
+	{
+		"id": 3,
+		"name": "Cavalier",
+		"imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Mens-Cavalier-Shadow-Grey-190225_256x256.jpg?v=1569110766%201.00x",
+		"price": "190",
+		"collection": "Shadow Grey",
+		"badge": false
+	},
+	{
+		"id": 4,
+		"name": "Legend",
+		"imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Legend-BlackMatte-3.4.jpg?v=1600886623",
+		"price": "190",
+		"collection": "Black Matte",
+		"badge": false,
+		"badgeMessage": ""
+	},
+	{
+		"id": 5,
+		"name": "Cadet",
+		"imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-Cadet-Walnut-3.4_256x256.jpg?v=1599253260 1.00x",
+		"price": "190",
+		"collection": "Walnut",
+		"badge": false,
+		"badgeMessage": ""
+	},
+	{
+		"id": 6,
+		"name": "Wingtip",
+		"imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/products/3.4_Wingtip_Color_77.jpg?v=1569244412",
+		"price": "235",
+		"collection": "Color #77",
+		"badge": true,
+		"badgeMessage": "Sold Out"
+	},
+	{
+		"id": 7,
+		"name": "President",
+		"imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Men-President-2.0-Mocha-3.4.jpg?v=1598456424",
+		"price": "199",
+		"collection": "Mocha",
+		"badge": false,
+		"badgeMessage": ""
+	},
+	{
+		"id": 8,
+		"name": "Captain",
+		"imageUrl": "https://cdn.shopify.com/s/files/1/0419/1525/products/1024x1024-Captain-Brown-1.jpg?v=1589390788",
+		"price": "199",
+		"collection": "Brown",
+		"badge": false,
+		"badgeMessage": ""
+	}
+]
