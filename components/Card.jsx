@@ -1,6 +1,5 @@
 import Image from "next/image";
 import React from "react";
-import purple from "../assets/Captain-Arizona.png";
 function Card({ imageUrl, name, price, collection, badge, badgeMessage }) {
 	return (
 		<div className="w-52">
