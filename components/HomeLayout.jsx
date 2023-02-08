@@ -7,7 +7,7 @@ import GetHomeProducts from "./GetHomeProducts";
 
 function HomeLayout() {
 	return (
-		<div className="flex justify-between mt-28 mx-14">
+		<div className="flex justify-between mt-2 mx-14">
 			<section>
 				<Sidebar />
 			</section>
